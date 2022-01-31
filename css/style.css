@@ -34,4 +34,5 @@
 #button:hover {
     background-color: #3E000C;
     transform: scale(1.08);
+    opacity: 0.5;
 }
