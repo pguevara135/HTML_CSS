@@ -28,21 +28,6 @@
     margin-right: 10px;
 }
 
-#button {
-    background-color: #D90368;
-    padding: 18px;
-    box-shadow: 5px 5px 0 #000;
-    margin-right: 0;
-    transition: 1s ease-in-out;
-}
-
-#button:hover {
-    background-color: #3E000C;
-    transform: scale(1.08);
-    opacity: 0.5;
-}
-
-
 /* .info {
     text-align: center;
     width: 627px;
