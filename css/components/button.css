@@ -1,7 +1,9 @@
 .button {
+    display: inline-flex;
     background-color: #D90368;
     padding: 18px;
     box-shadow: 5px 5px 0 #000;
+    font-size: 20px;
     margin-right: 0;
     transition: 1s ease-in-out;
     color: #fff;
