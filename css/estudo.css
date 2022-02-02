@@ -1,0 +1,28 @@
+.skills {
+    background-color: #D90368;
+    border-bottom: 10px solid #ae03d9;
+    text-align: center;
+}
+
+.skills-list {
+    display: flex;
+    width: 960px;
+    vertical-align: middle;
+}
+
+.html::after {
+    content: "";
+    width: 150px;
+    height: 20px;
+    background-color: wheat;
+    margin-left: 10px;
+}
+
+.skills .html {
+    display: flex;
+    vertical-align: middle;
+}
+
+.html img {
+    width: px;
+}
