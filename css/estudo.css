@@ -1,28 +1,30 @@
-.skills {
+.section-projects {
+    background-color: #000;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #D90368;
+}
+
+.aligns {
+    display: flex;
+    justify-content: space-around;
+    padding: 140px;
+}
+
+.projects {
+    border-right: 10px solid #fff;
+    border-bottom: 10px solid #fff;
+}
+
+.firelab {
     background-color: #D90368;
-    border-bottom: 10px solid #ae03d9;
-    text-align: center;
+    padding: 17px 35px;
 }
 
-.skills-list {
-    display: flex;
-    width: 960px;
-    vertical-align: middle;
+.collab {
+    background-color: #4C5B84;
 }
 
-.html::after {
-    content: "";
-    width: 150px;
-    height: 20px;
-    background-color: wheat;
-    margin-left: 10px;
-}
-
-.skills .html {
-    display: flex;
-    vertical-align: middle;
-}
-
-.html img {
-    width: px;
+.portifolio {
+    border: none;
 }
