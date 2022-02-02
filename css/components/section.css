@@ -4,3 +4,11 @@
     padding-bottom: 100px;
     border-bottom: 10px solid #ae03d9;
 }
+
+.section.-bgblack {
+    background-color: #000;
+}
+
+.section.-bdfirst {
+    border-color: #e60a659f;
+}
