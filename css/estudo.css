@@ -14,6 +14,7 @@
 .projects {
     border-right: 10px solid #fff;
     border-bottom: 10px solid #fff;
+    margin-right: 50px;
 }
 
 .firelab {
@@ -23,8 +24,4 @@
 
 .collab {
     background-color: #4C5B84;
-}
-
-.portifolio {
-    border: none;
 }
