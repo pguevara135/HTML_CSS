@@ -1,3 +1,11 @@
+.classroom {
+    font-size: 80px;
+    text-align: center;
+    margin-top: 150px;
+    background-color: #D90368;
+    text-shadow: 8px 8px 5px whitesmoke;
+}
+
 .section-projects {
     background-color: #000;
     padding-top: 50px;
