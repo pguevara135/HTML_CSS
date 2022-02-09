@@ -1,4 +1,4 @@
-.button {
+.main-button {
     display: inline-flex;
     background-color: #D90368;
     padding: 18px;
@@ -9,7 +9,7 @@
     color: #fff;
 }
 
-.button:hover {
+.main-button:hover {
     background-color: #3E000C;
     transform: scale(1.08);
     opacity: 0.5;
