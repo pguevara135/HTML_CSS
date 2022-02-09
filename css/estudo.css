@@ -5,31 +5,3 @@
     background-color: #D90368;
     text-shadow: 8px 8px 5px whitesmoke;
 }
-
-.section-projects {
-    background-color: #000;
-    padding-top: 50px;
-    padding-bottom: 100px;
-    border-bottom: 10px solid #D90368;
-}
-
-.aligns {
-    display: flex;
-    justify-content: space-around;
-    padding: 140px;
-}
-
-.projects {
-    border-right: 10px solid #fff;
-    border-bottom: 10px solid #fff;
-    margin-right: 50px;
-}
-
-.firelab {
-    background-color: #D90368;
-    padding: 17px 35px;
-}
-
-.collab {
-    background-color: #4C5B84;
-}
