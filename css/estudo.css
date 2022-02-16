@@ -1,7 +1,5 @@
-.classroom {
-    font-size: 80px;
-    text-align: center;
-    margin-top: 150px;
-    background-color: #D90368;
-    text-shadow: 8px 8px 5px whitesmoke;
+.description  {
+    max-width: 1280px;
+    height: 312px;
+    margin: 50px auto;
 }
