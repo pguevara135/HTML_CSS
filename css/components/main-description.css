@@ -3,4 +3,8 @@
     font-size: 30px;
     font-weight: 300;
     line-height: 1.4;
+    margin: 50px auto;
+    max-width: 1280px;
+    height: 312px;
+    border: 2px solid black;
 }
