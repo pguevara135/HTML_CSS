@@ -3,3 +3,11 @@
     height: 312px;
     margin: 50px auto;
 }
+
+.classroom {
+    background-color: violet;
+    padding: 25px;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 50px;
+}
