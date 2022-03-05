@@ -20,3 +20,7 @@
     border-left: 28px solid white;
     transform: translateX(8px);
 }
+
+.button-arrow.-left::before {
+    transform: rotate(180deg) translateX(8px);
+}
