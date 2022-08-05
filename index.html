@@ -5,23 +5,47 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulário</title>
-    <script src="https://kit.fontawesome.com/e9974626c4.js" crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/20af3d3faf.js"></script>
+    <link rel="stylesheet" href="css/reset.css">
 </head>
 <body>
     <div class="container">
         <div class="header">
             <h2>Criar uma Conta</h2>
+            
             <form action="" method="post" id="form">
                 <div class="form-control">
                     <label for="username">Nome de Usuário:</label>
-                    <input type="text" id="username">
-                    <i class="fa-solid fa-circle-exclamation"></i>
-                    <i class="fa-thin fa-alicorn"></i>
+                    <input type="text" id="username" placeholder="Digite seu nome">
+                    <i class="fas fa-circle-exclamation"></i>
+                    <i class="fas fa-check-circle"></i>
                     <small>Nome de usuário obrigatório</small>
                 </div>
+                <div class="form-control">
+                    <label for="email">E-mail:</label>
+                    <input type="text" id="email" placeholder="digite seu e-mail">
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <i class="fa-thin fa-alicorn"></i>
+                    <small>Insira um e-mail válido</small>
+                </div>
+                <div class="form-class">
+                <label for="password">Senha:</label>
+                <input type="text" id="password" placeholder="digite uma senha">
+                <i class="fa-solid fa-circle-exclamation"></i>
+                <i class="fa-thin fa-alicorn"></i>
+                <small></small>
+                </div>
+                <div class="form-class">
+                    <label for="password-confirmation">Confirmar Senha:</label>
+                    <input type="text" id="password-confirmation" placeholder="Confirme a senha">
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <i class="fa-thin fa-alicorn"></i>
+                    <small></small>
+                </div>
+                <button type="submit">Enviar</button>
             </form>
         </div>
     </div>
-
+    
 </body>
 </html>
